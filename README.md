@@ -1,11 +1,22 @@
 # awesome-native-app-windows-arm
+
+<h3 align="center"> English | <a href='./README-zh_CN.md'>简体中文</a></h3>
+
 Collection of native software for Windows on ARM. (Working in Progress)
 
-[toc]
+## Table of Contents
 
-## The List
+- [awesome-native-app-windows-arm](#awesome-native-app-windows-arm)
+  - [Table of Contents](#table-of-contents)
+  - [The Main List](#the-main-list)
+    - [Windows Features](#windows-features)
+    - [Applications](#applications)
+    - [Programming](#programming)
+  - [Contributing](#contributing)
 
-This list only contains software that is officially published.
+## The Main List
+
+This main list only contains software that is officially published.
 
 Additionally, a list of third-party build or port of software is here: [3rd-party.md](3rd-party.md)
 
@@ -67,4 +78,4 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 
 ## Contributing
 
-To add new software to the list, feel free to open an issue or submit PRs.
+Feel free to open an issue or submit PRs.
