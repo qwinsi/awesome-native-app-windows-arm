@@ -33,30 +33,31 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 
 ### Applications
 
-| Name                                      | Category               | free/paid/open source | Comment                                       |
-| ----------------------------------------- | ---------------------- | --------------------- | --------------------------------------------- |
-| Microsoft Edge                            | Browser                | free                  | by Microsoft                                  |
-| Firefox                                   | Brower                 | open source           |                                               |
-| MS Office Suite (Word, PowerPoint, Excel) | Office                 | paid                  | by Microsoft                                  |
-| OneNote                                   | Note taking            | free                  | by Microsoft                                  |
-| Microsoft To Do                           | Todo List              | free                  | by Microsoft                                  |
-| OneDrive                                  | Cloud Storage          | free                  | by Microsoft. Require Windows Insider Program |
-| 7-zip                                     |                        | open source           |                                               |
-| Zoom                                      | Meeting                | free                  |                                               |
-| Unigram*                                  | Instant Messaging      | open source           | Temporarily not available due to bug          |
-| Typora                                    | Markdown Editor        | paid                  |                                               |
-| Obsidian                                  | Markdown & Note taking | free                  |                                               |
-| Notepad++                                 | Text Editor            | open source           |                                               |
-| PowerToys                                 | Utilities              | open source           | by Microsoft                                  |
-| Sandboxie-Plus                            |                        | open source           |                                               |
-| Xodo                                      | PDF                    | free                  | MS Store                                      |
-| Drawboard PDF                             | PDF                    | free                  | MS Store                                      |
-| Sumatra PDF                               | PDF                    | open source           | preview release                               |
-| VLC                                       | Media Player           |                       |                                               |
-| Everything                                | Utilities              | free                  |                                               |
-| APK Installer                             | Utilities              | open source           |                                               |
-| Files                                     |                        | open source           |                                               |
-| Rufus                                     |                        | open source           |                                               |
+| Name                                          | Category               | free/paid/open source | Comment                                       |
+| --------------------------------------------- | ---------------------- | --------------------- | --------------------------------------------- |
+| Microsoft Edge                                | Browser                | free                  | by Microsoft                                  |
+| Firefox                                       | Brower                 | open source           |                                               |
+| MS Office Suite (Word, PowerPoint, Excel)     | Office                 | paid                  | by Microsoft                                  |
+| OneNote                                       | Note taking            | free                  | by Microsoft                                  |
+| Microsoft To Do                               | Todo List              | free                  | by Microsoft                                  |
+| OneDrive                                      | Cloud Storage          | free                  | by Microsoft. Require Windows Insider Program |
+| 7-zip                                         |                        | open source           |                                               |
+| Zoom                                          | Meeting                | free                  |                                               |
+| Unigram*                                      | Instant Messaging      | open source           | Temporarily not available due to bug          |
+| Typora                                        | Markdown Editor        | paid                  |                                               |
+| Obsidian                                      | Markdown & Note taking | free                  |                                               |
+| Notepad++                                     | Text Editor            | open source           |                                               |
+| PowerToys                                     | Utilities              | open source           | by Microsoft                                  |
+| Sandboxie-Plus                                |                        | open source           |                                               |
+| Xodo                                          | PDF                    | free                  | MS Store                                      |
+| Drawboard PDF                                 | PDF                    | free                  | MS Store                                      |
+| Sumatra PDF                                   | PDF                    | open source           | preview release                               |
+| VLC                                           | Media Player           |                       |                                               |
+| Everything                                    | Utilities              | free                  |                                               |
+| APK Installer                                 | Utilities              | open source           |                                               |
+| Files                                         |                        | open source           |                                               |
+| Rufus                                         |                        | open source           |                                               |
+| [Pot](https://github.com/pot-app/pot-desktop) | OCR, Translate         | open source           |                                               |
 
 
 
