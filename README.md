@@ -6,13 +6,11 @@ Collection of native software for Windows on ARM. (Working in Progress)
 
 ## Table of Contents
 
-- [awesome-native-app-windows-arm](#awesome-native-app-windows-arm)
-  - [Table of Contents](#table-of-contents)
-  - [The Main List](#the-main-list)
-    - [Windows Features](#windows-features)
-    - [Applications](#applications)
-    - [Programming](#programming)
-  - [Contributing](#contributing)
+- [The Main List](#the-main-list)
+  - [Windows Features](#windows-features)
+  - [Applications](#applications)
+  - [Programming](#programming)
+- [Contributing](#contributing)
 
 ## The Main List
 
@@ -26,54 +24,54 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | ----------------------------------- | --------------------------------------- |
 | Media Player                        |                                         |
 | Windows subsystem for Android (WSA) |                                         |
-| Windows subsystem for Linux (WSL)   | WSLg is also available.                 |
+| Windows subsystem for Linux (WSL)   | WSLg is also available                  |
 | Windows Sandbox                     | Require Windows 11 Build 22483 or later |
 
 
 
 ### Applications
 
-| Name                                          | Category               | free/paid/open source | Comment                                       |
-| --------------------------------------------- | ---------------------- | --------------------- | --------------------------------------------- |
-| Microsoft Edge                                | Browser                | free                  | by Microsoft                                  |
-| Firefox                                       | Brower                 | open source           |                                               |
-| MS Office Suite (Word, PowerPoint, Excel)     | Office                 | paid                  | by Microsoft                                  |
-| OneNote                                       | Note taking            | free                  | by Microsoft                                  |
-| Microsoft To Do                               | Todo List              | free                  | by Microsoft                                  |
-| OneDrive                                      | Cloud Storage          | free                  | by Microsoft. Require Windows Insider Program |
-| 7-zip                                         |                        | open source           |                                               |
-| Zoom                                          | Meeting                | free                  |                                               |
-| Unigram*                                      | Instant Messaging      | open source           | Temporarily not available due to bug          |
-| Typora                                        | Markdown Editor        | paid                  |                                               |
-| Obsidian                                      | Markdown & Note taking | free                  |                                               |
-| Notepad++                                     | Text Editor            | open source           |                                               |
-| PowerToys                                     | Utilities              | open source           | by Microsoft                                  |
-| Sandboxie-Plus                                |                        | open source           |                                               |
-| Xodo                                          | PDF                    | free                  | MS Store                                      |
-| Drawboard PDF                                 | PDF                    | free                  | MS Store                                      |
-| Sumatra PDF                                   | PDF                    | open source           | preview release                               |
-| VLC                                           | Media Player           |                       |                                               |
-| Everything                                    | Utilities              | free                  |                                               |
-| APK Installer                                 | Utilities              | open source           |                                               |
-| Files                                         |                        | open source           |                                               |
-| Rufus                                         |                        | open source           |                                               |
-| [Pot](https://github.com/pot-app/pot-desktop) | OCR, Translate         | open source           |                                               |
+| Name                                                         | Category                     | free/paid/open source | Comment                                                      |
+| ------------------------------------------------------------ | ---------------------------- | --------------------- | ------------------------------------------------------------ |
+| [Microsoft Edge](https://www.microsoft.com/en-us/edge)       | Browser                      | free                  | by Microsoft                                                 |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/)        | Brower                       | open source           |                                                              |
+| [MS Office Suite](https://www.office.com/) (Word, PowerPoint, Excel) | Office                       | paid                  | by Microsoft                                                 |
+| [OneNote](https://www.onenote.com/)                          | Note taking                  | free                  | by Microsoft                                                 |
+| [Microsoft To Do](https://todo.microsoft.com/)               | Todo List                    | free                  | by Microsoft                                                 |
+| [OneDrive](https://onedrive.live.com/)                       | Cloud Storage                | free                  | by Microsoft. Require Windows Insider Program                |
+| [7-zip](https://www.7-zip.org/)                              | File archiver                | open source           |                                                              |
+| [Zoom](https://zoom.us/)                                     | Meeting                      | free                  |                                                              |
+| [Unigram](https://github.com/UnigramDev/Unigram) \*          | Instant Messaging            | open source           | Temporarily not available [due to bug](https://github.com/UnigramDev/Unigram/issues/3010#issuecomment-1528811672) |
+| [Typora](https://typora.io/)                                 | Markdown editor              | paid                  |                                                              |
+| [Obsidian](https://obsidian.md/)                             | Markdown editor, Note taking | free                  |                                                              |
+| [Notepad++](https://notepad-plus-plus.org/)                  | Text editor                  | open source           |                                                              |
+| [PowerToys](https://github.com/microsoft/PowerToys)          | Utilities                    | open source           | by Microsoft                                                 |
+| [Sandboxie-Plus](https://github.com/sandboxie-plus/Sandboxie) | Software isolation           | open source           |                                                              |
+| [Xodo](https://xodo.com/)                                    | PDF viewer & editor          | free                  | MS Store                                                     |
+| [Drawboard PDF](https://www.drawboard.com/)                  | PDF viewer & editor          | free                  | MS Store                                                     |
+| [Sumatra PDF (Preview)](https://www.sumatrapdfreader.org/free-pdf-reader) | PDF viewer                   | open source           | preview release                                              |
+| [VLC](https://www.videolan.org/vlc/)                         | Media Player                 |                       |                                                              |
+| [Everything](https://www.voidtools.com/)                     | File search                  | free                  |                                                              |
+| [APK Installer](https://github.com/Paving-Base/APK-Installer) | WSA tool                     | open source           |                                                              |
+| [Files](https://files.community/)                            | File manager                 | open source           |                                                              |
+| [Rufus](https://rufus.ie/)                                   | Making USB flash drive       | open source           |                                                              |
+| [Pot](https://github.com/pot-app/pot-desktop)                | OCR, Translate               | open source           |                                                              |
 
 
 
 ### Programming
 
-| Name           | Comment                    |
-| -------------- | -------------------------- |
-| VS Code        |                            |
-| JetBrains IDEs |                            |
-| Visual Studio  |                            |
-| Github Desktop | Beta                       |
-| LLVM           |                            |
-| CMake          |                            |
-| Python         | version 3.11 on 2022-10-24 |
-| OpenJDK        | Microsoft Build of OpenJDK |
-| Go language    |                            |
+| Name                                                         | Comment                            |
+| ------------------------------------------------------------ | ---------------------------------- |
+| [VS Code](https://code.visualstudio.com/)                    |                                    |
+| [JetBrains IDEs](https://www.jetbrains.com/)                 |                                    |
+| [Visual Studio](https://visualstudio.microsoft.com/)         |                                    |
+| [Github Desktop (Beta)](https://desktop.github.com/beta/)    | Beta                               |
+| [LLVM](https://llvm.org/)                                    |                                    |
+| [CMake](https://cmake.org/)                                  |                                    |
+| [Python](https://www.python.org/)                            | since v3.11 released on 2022-10-24 |
+| [OpenJDK (Microsoft Build)](https://www.microsoft.com/openjdk) | Microsoft Build of OpenJDK         |
+| [Go Language](https://go.dev/)                               |                                    |
 
 
 
