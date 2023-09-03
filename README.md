@@ -39,6 +39,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [OneNote](https://www.onenote.com/)                          | Note taking                  | free                  | by Microsoft                                                 |
 | [Microsoft To Do](https://todo.microsoft.com/)               | Todo List                    | free                  | by Microsoft                                                 |
 | [OneDrive](https://onedrive.live.com/)                       | Cloud Storage                | free                  | by Microsoft. Require Windows Insider Program                |
+| [Spotify](https://open.spotify.com/)                         | Music                        | free client           |                                                              |
 | [7-zip](https://www.7-zip.org/)                              | File archiver                | open source           |                                                              |
 | [Zoom](https://zoom.us/)                                     | Meeting                      | free                  |                                                              |
 | [Unigram](https://github.com/UnigramDev/Unigram) \*          | Instant Messaging            | open source           | Temporarily not available [due to bug](https://github.com/UnigramDev/Unigram/issues/3010#issuecomment-1528811672) |
@@ -61,17 +62,18 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 
 ### Programming
 
-| Name                                                         | Comment                            |
-| ------------------------------------------------------------ | ---------------------------------- |
-| [VS Code](https://code.visualstudio.com/)                    |                                    |
-| [JetBrains IDEs](https://www.jetbrains.com/)                 |                                    |
-| [Visual Studio](https://visualstudio.microsoft.com/)         |                                    |
-| [Github Desktop (Beta)](https://desktop.github.com/beta/)    | Beta                               |
-| [LLVM](https://llvm.org/)                                    |                                    |
-| [CMake](https://cmake.org/)                                  |                                    |
-| [Python](https://www.python.org/)                            | since v3.11 released on 2022-10-24 |
-| [OpenJDK (Microsoft Build)](https://www.microsoft.com/openjdk) | Microsoft Build of OpenJDK         |
-| [Go Language](https://go.dev/)                               |                                    |
+| Name                                                         | Comment                              |
+| ------------------------------------------------------------ | ------------------------------------ |
+| [VS Code](https://code.visualstudio.com/)                    |                                      |
+| [JetBrains IDEs](https://www.jetbrains.com/)                 |                                      |
+| [Visual Studio](https://visualstudio.microsoft.com/)         |                                      |
+| [Github Desktop (Beta)](https://desktop.github.com/beta/)    | Beta                                 |
+| [LLVM](https://llvm.org/)                                    |                                      |
+| [CMake](https://cmake.org/)                                  |                                      |
+| [Python](https://www.python.org/)                            | since v3.11 released on 2022-10-24   |
+| [OpenJDK (Microsoft Build)](https://www.microsoft.com/openjdk) | Microsoft Build of OpenJDK           |
+| [Go Language](https://go.dev/)                               |                                      |
+| [Node.js](https://nodejs.org/)                               | since v19.9.0 released on 2023-04-10 |
 
 
 
