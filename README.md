@@ -20,12 +20,13 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 
 ### Windows Features
 
-| Name                                | Comment                                 |
-| ----------------------------------- | --------------------------------------- |
-| Media Player                        |                                         |
-| Windows subsystem for Android (WSA) |                                         |
-| Windows subsystem for Linux (WSL)   | WSLg is also available                  |
-| Windows Sandbox                     | Require Windows 11 Build 22483 or later |
+| Name                                | Comment                                        |
+| ----------------------------------- | ---------------------------------------------- |
+| Media Player                        |                                                |
+| Windows subsystem for Android (WSA) |                                                |
+| Windows subsystem for Linux (WSL)   | WSLg is also available                         |
+| Windows Sandbox                     | Require Windows 11 Build 22483 or later        |
+| Hyper-V                             | Require Enterprise, Pro, or Education editions |
 
 
 
