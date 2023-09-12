@@ -39,6 +39,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [OneNote](https://www.onenote.com/)                          | Note taking                  | free                  | by Microsoft                                                 |
 | [Microsoft To Do](https://todo.microsoft.com/)               | Todo List                    | free                  | by Microsoft                                                 |
 | [OneDrive](https://onedrive.live.com/)                       | Cloud Storage                | free                  | by Microsoft. Require Windows Insider Program                |
+| [GIMP](https://www.gimp.org/)                                | Image Editor                 | open source           |                                                              |
 | [Spotify](https://open.spotify.com/)                         | Music                        | free client           |                                                              |
 | [7-zip](https://www.7-zip.org/)                              | File archiver                | open source           |                                                              |
 | [Zoom](https://zoom.us/)                                     | Meeting                      | free                  |                                                              |
