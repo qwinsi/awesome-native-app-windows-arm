@@ -6,11 +6,20 @@ Collection of native software for Windows on ARM. (Working in Progress)
 
 ## Table of Contents
 
+- [See Also](#see-also)
 - [The Main List](#the-main-list)
   - [Windows Features](#windows-features)
   - [Applications](#applications)
   - [Programming](#programming)
 - [Contributing](#contributing)
+
+## See Also
+
+[arminask/windows-arm-apps](https://github.com/arminask/windows-arm-apps) has been maintaining a similar list as well.
+
+Currently, the apps listed in the this and that repo have some differences from each other. Either repo may have some apps that the other doesn't have. So check both lists if you are looking for something.
+
+I will try to merge the two lists in the future.
 
 ## The Main List
 
