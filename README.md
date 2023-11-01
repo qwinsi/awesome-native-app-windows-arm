@@ -62,7 +62,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [Xodo](https://xodo.com/)                                    | PDF viewer & editor          | free                  | MS Store                                                     |
 | [Drawboard PDF](https://www.drawboard.com/)                  | PDF viewer & editor          | free                  | MS Store                                                     |
 | [Sumatra PDF (Preview)](https://www.sumatrapdfreader.org/free-pdf-reader) | PDF viewer                   | open source           | preview release                                              |
-| [VLC](https://www.videolan.org/vlc/)                         | Media Player                 |                       |                                                              |
+| [VLC](https://www.videolan.org/vlc/)                         | Media Player                 | open source           |                                                              |
 | [Everything](https://www.voidtools.com/)                     | File search                  | free                  |                                                              |
 | [APK Installer](https://github.com/Paving-Base/APK-Installer) | WSA tool                     | open source           |                                                              |
 | [Files](https://files.community/)                            | File manager                 | open source           |                                                              |
