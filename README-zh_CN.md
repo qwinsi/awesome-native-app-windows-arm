@@ -6,12 +6,12 @@ Windows on ARM 原生软件集合。（仍在完善中）
 
 ## 目录
 
-- [其他参阅](#see-also)
-- [主要列表](#the-main-list)
-  - [Windows 功能](#windows-features)
-  - [应用程序](#applications)
-  - [编程相关](#programming)
-- [贡献](#contributing)
+- [其他参阅](#其他参阅)
+- [主要列表](#主要列表)
+  - [Windows 功能](#windows-功能)
+  - [应用程序](#应用程序)
+  - [编程相关](#编程相关)
+- [贡献](#贡献)
 
 ## 其他参阅
 
