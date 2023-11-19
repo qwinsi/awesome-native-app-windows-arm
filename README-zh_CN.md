@@ -47,6 +47,7 @@ Windows on ARM 原生软件集合。（仍在完善中）
 | [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) | 浏览器 | 开源 | |
 | [MS Office Suite](https://www.office.com/) (Word, PowerPoint, Excel) | Office | 付费 | 由 Microsoft 提供 |
 | [OneNote](https://www.onenote.com/) | 记笔记 | 免费 | 由 Microsoft 提供 |
+| [Microsoft 日记](https://www.microsoft.com/en-us/garage/profiles/journal/) | 记笔记              | 免费                  |                             由 Microsoft 提供                                                              |
 | [Microsoft To Do](https://todo.microsoft.com/) | 待办列表 | 免费 | 由 Microsoft 提供 |
 | [OneDrive](https://onedrive.live.com/) | 云存储 | 免费 | 由 Microsoft 提供，需要加入 Windows 预览体验计划 |
 | [GIMP](https://www.gimp.org/) | 图片编辑器 | 开源 | |
