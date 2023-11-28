@@ -53,6 +53,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [GIMP](https://www.gimp.org/)                                | Image Editor                 | open source           |                                                              |
 | [Spotify](https://open.spotify.com/)                         | Music                        | free client           |                                                              |
 | [7-zip](https://www.7-zip.org/)                              | File archiver                | open source           |                                                              |
+| [NanaZip](https://apps.microsoft.com/detail/9N8G7TSCL18R) | File archiver | open source | Support Win11 right click menu |
 | [Zoom](https://zoom.us/)                                     | Meeting                      | free                  |                                                              |
 | [Unigram](https://github.com/UnigramDev/Unigram) \*          | Instant Messaging            | open source           | Temporarily not available [due to bug](https://github.com/UnigramDev/Unigram/issues/3010#issuecomment-1528811672) |
 | [Typora](https://typora.io/)                                 | Markdown editor              | paid                  |                                                              |

@@ -53,6 +53,7 @@ Windows on ARM 原生软件集合。（仍在完善中）
 | [GIMP](https://www.gimp.org/) | 图片编辑器 | 开源 | |
 | [Spotify](https://open.spotify.com/) | 音乐 | 免费（客户端） | |
 | [7-zip](https://www.7-zip.org/) | 文件解压缩工具 | 开源 | |
+| [NanaZip](https://apps.microsoft.com/detail/9N8G7TSCL18R) | 文件解压缩工具 | 开源 | 支持Win11右键菜单 |
 | [Zoom](https://zoom.us/) | 会议 | 免费 | |
 | [Unigram](https://github.com/UnigramDev/Unigram) \* | 即时消息 | 开源 | 由于[此错误](https://github.com/UnigramDev/Unigram/issues/3010#issuecomment-1528811672)而暂时不可用 |
 | [Typora](https://typora.io/) | Markdown 编辑器 | 付费 | |
