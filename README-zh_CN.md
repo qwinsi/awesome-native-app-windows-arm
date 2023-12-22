@@ -64,6 +64,7 @@ Windows on ARM 原生软件集合。（仍在完善中）
 | [Xodo](https://xodo.com/) | PDF 查看、编辑器 | 免费 | 从 Microsoft Store 获取 |
 | [Drawboard PDF](https://www.drawboard.com/) | PDF 查看、编辑器 | 免费 | 从 Microsoft Store 获取 |
 | [Sumatra PDF (Preview)](https://www.sumatrapdfreader.org/free-pdf-reader) | PDF 查看器 | 开源 | 预览版 |
+| [PDF-XChange Editor](https://pdf-xchange.eu/DL/pdf-xchange-editor.htm) | PDF viewer & editor       | free / paid        |                                             |
 | [VLC](https://www.videolan.org/vlc/) | 媒体播放器 | 开源 | |
 | [Everything](https://www.voidtools.com/) | 文件搜索 | 免费 | |
 | [APK Installer](https://github.com/Paving-Base/APK-Installer) | WSA 工具 | 开源 | |
