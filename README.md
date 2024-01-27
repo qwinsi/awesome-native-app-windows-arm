@@ -43,6 +43,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 
 | Name                                                         | Category                     | free/paid/open source | Comment                                                      |
 | ------------------------------------------------------------ | ---------------------------- | --------------------- | ------------------------------------------------------------ |
+| [Chrome (Canary)](https://www.google.com/chrome/canary/)       | Browser                      | free                  |                                                   |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge)       | Browser                      | free                  | by Microsoft                                                 |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/)        | Brower                       | open source           |                                                              |
 | [MS Office Suite](https://www.office.com/) (Word, PowerPoint, Excel) | Office                       | paid                  | by Microsoft                                                 |
@@ -55,6 +56,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [7-zip](https://www.7-zip.org/)                              | File archiver                | open source           |                                                              |
 | [NanaZip](https://apps.microsoft.com/detail/9N8G7TSCL18R) | File archiver | open source | Support Win11 right click menu |
 | [Zoom](https://zoom.us/)                                     | Meeting                      | free                  |                                                              |
+| [Dropbox](https://www.dropbox.com/) | Cloud Storage | free | |
 | [Unigram](https://github.com/UnigramDev/Unigram) \*          | Instant Messaging            | open source           | Temporarily not available [due to bug](https://github.com/UnigramDev/Unigram/issues/3010#issuecomment-1528811672) |
 | [Typora](https://typora.io/)                                 | Markdown editor              | paid                  |                                                              |
 | [Obsidian](https://obsidian.md/)                             | Markdown editor, Note taking | free                  |                                                              |
@@ -71,6 +73,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [Files](https://files.community/)                            | File manager                 | open source           |                                                              |
 | [Rufus](https://rufus.ie/)                                   | Making USB flash drive       | open source           |                                                              |
 | [Pot](https://github.com/pot-app/pot-desktop)                | OCR, Translate               | open source           |                                                              |
+| [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Utilities | free | |
 
 
 
