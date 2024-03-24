@@ -91,6 +91,8 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [OpenJDK (Microsoft Build)](https://www.microsoft.com/openjdk) | Microsoft Build of OpenJDK           |
 | [Go Language](https://go.dev/)                               |                                      |
 | [Node.js](https://nodejs.org/)                               | since v19.9.0 released on 2023-04-10 |
+| [Rust](https://www.rust-lang.org/)                           | since v1.26.0 released on 2023-04-25 |
+| [OpenSSL for Windows](https://slproweb.com/products/Win32OpenSSL.html) | since v3.0.13 (EXPERIMENTAL) |
 
 
 

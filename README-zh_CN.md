@@ -94,6 +94,8 @@ Windows on ARM 原生软件集合。（仍在完善中）
 | [OpenJDK (Microsoft Build)](https://www.microsoft.com/openjdk) | 由 Microsoft 构建的 OpenJDK |
 | [Go Language](https://go.dev/) | |
 | [Node.js](https://nodejs.org/) | 自 2023-04-10 发布的 v19.9.0 起 |
+| [Rust](https://www.rust-lang.org/) | 自 2023-04-25 发布的 v1.26.0 起 |
+| [OpenSSL for Windows](https://slproweb.com/products/Win32OpenSSL.html) | 自 v3.0.13 起（实验性）|
 
 
 
