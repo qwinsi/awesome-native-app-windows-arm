@@ -43,7 +43,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 
 | Name                                                         | Category                     | free/paid/open source | Comment                                                      |
 | ------------------------------------------------------------ | ---------------------------- | --------------------- | ------------------------------------------------------------ |
-| [Chrome (Canary)](https://www.google.com/chrome/canary/)       | Browser                      | free                  |                                                   |
+| [Chrome](https://www.google.com/chrome)       | Browser                      | free                  |                                                   |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge)       | Browser                      | free                  | by Microsoft                                                 |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/)        | Brower                       | open source           |                                                              |
 | [MS Office Suite](https://www.office.com/) (Word, PowerPoint, Excel) | Office                       | paid                  | by Microsoft                                                 |
