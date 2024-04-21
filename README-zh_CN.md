@@ -43,7 +43,7 @@ Windows on ARM 原生软件集合。（仍在完善中）
 
 | 名称 | 类别 | 免费/付费/开源 | 说明 |
 | - | - | - | - |
-| [Chrome (Canary)](https://www.google.com/chrome/canary/) | 浏览器 | 免费 |                |
+| [Chrome](https://www.google.com/chrome) | 浏览器 | 免费 |                |
 | [Microsoft Edge](https://www.microsoft.com/zh-cn/edge) | 浏览器 | 免费 | 由 Microsoft 提供 |
 | [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) | 浏览器 | 开源 | |
 | [MS Office Suite](https://www.office.com/) (Word, PowerPoint, Excel) | Office | 付费 | 由 Microsoft 提供 |
