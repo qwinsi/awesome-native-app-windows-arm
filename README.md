@@ -74,7 +74,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [Rufus](https://rufus.ie/)                                   | Making USB flash drive       | open source           |                                                              |
 | [Pot](https://github.com/pot-app/pot-desktop)                | OCR, Translate               | open source           |                                                              |
 | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Utilities | free | |
-
+| [foobar2000](https://www.foobar2000.org/ffmpeg) | Music | GNU LGPL open source | |
 
 
 ### Programming
@@ -94,7 +94,10 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [Rust](https://www.rust-lang.org/)                           | since v1.26.0 released on 2023-04-25 |
 | [OpenSSL for Windows](https://slproweb.com/products/Win32OpenSSL.html) | since v3.0.13 (EXPERIMENTAL) |
 
-
+### Libraries
+| Name                                                         | Comment                              |
+| ------------------------------------------------------------ | ------------------------------------ |
+| [fast_io](https://github.com/cppfastio/fast_io)              |                                      |
 
 ## Contributing
 
