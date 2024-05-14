@@ -97,7 +97,7 @@ Windows on ARM 原生软件集合。（仍在完善中）
 | [Rust](https://www.rust-lang.org/) | 自 2023-04-25 发布的 v1.26.0 起 |
 | [OpenSSL for Windows](https://slproweb.com/products/Win32OpenSSL.html) | 自 v3.0.13 起（实验性）|
 
-### Libraries
+### 库
 | 名称                                                          | 说明                              |
 | ------------------------------------------------------------ | ------------------------------------ |
 | [fast_io](https://github.com/cppfastio/fast_io)              |                                      |
