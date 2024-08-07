@@ -5,7 +5,6 @@
 Collection of native software for Windows on ARM. (Working in Progress)
 
 ## Table of Contents
-
 - [See Also](#see-also)
 - [The Main List](#the-main-list)
   - [Windows Features](#windows-features)
@@ -74,6 +73,7 @@ Additionally, a list of third-party build or port of software is here: [3rd-part
 | [Rufus](https://rufus.ie/)                                   | Making USB flash drive       | open source           |                                                              |
 | [Pot](https://github.com/pot-app/pot-desktop)                | OCR, Translate               | open source           |                                                              |
 | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Utilities | free | |
+| [PasteBar](https://github.com/PasteBar/PasteBarApp) | Clipboard Manager & Saved Clips | free | |
 
 
 
